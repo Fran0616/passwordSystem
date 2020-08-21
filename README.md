@@ -8,7 +8,7 @@ Basic password system.
 Software Overview
 ====================
 
-The program ustilize the while statment to continuesly promt user to enter the password and break when the password is correct. 
+The program utilize the while statment to continuesly promt user to enter the password and break when the password is correct. 
 
 1. Program promt user to enter password
 2. If the password is enter incorrectly it will prompt them to reenter it until it's correct
